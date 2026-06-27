@@ -70,6 +70,29 @@
 📍 **Location:** Coimbatore, Tamil Nadu, India
 
 ---
+## 💼 Internship Experience
+
+### 🚗 Hyundai Motor India Limited — Sriperumbudur
+**May 20, 2026 – June 4, 2026**
+
+- 🏭 Gained hands-on exposure to engine and transmission assembly processes, understanding manufacturing flow and quality standards.
+- 🤖 Developed a real-time system to monitor worker compliance with Personal Protective Equipment (PPE) in manufacturing environments.
+
+---
+
+### 🔧 Roots Industries Pvt Ltd — Coimbatore
+**Nov 25, 2024 – Dec 4, 2024**
+
+- ⚙️ Gained hands-on experience in manufacturing and functioning of automobile components including horns, sensors, and electrical systems.
+- 🔌 Worked with engineers on design and testing of automotive electrical systems, understanding integration and industry practices.
+
+---
+
+### ☀️ Orb Energy Pvt Ltd — Bangalore
+**May 4, 2024 – May 16, 2024**
+
+- 🌞 Gained exposure to solar energy systems including installation, maintenance, and performance monitoring.
+- 🔋 Learned grid-tied and off-grid solar systems, energy storage, and inverter applications.
 ## 🎯 2026 Goals
 
 - [ ] Complete Final Year Hyperspectral Face Identification Project
