@@ -6,7 +6,7 @@
 
 | 👨‍💻 Personal Info | 🎯 Current Focus |
 |---|---|
-| `name: Arjun M` <br> `role: Software Engineer` <br> `education: Final Year ECS Student` <br> `university: Amrita University` <br> `location: Salem, Tamil Nadu 🇮🇳` <br> `status: Building the future, one commit at a time` | 🤝 Open-source collaboration <br> 📚 Continuous learning <br> 💡 Building impactful solutions |
+| `name: Arjun M` <br> `role: Software Engineer` <br> `education: Final Year ELC Student` <br> `university: Amrita University` <br> `location: Salem, Tamil Nadu 🇮🇳` <br> `status: Building the future, one commit at a time` | 🤝 Open-source collaboration <br> 📚 Continuous learning <br> 💡 Building impactful solutions |
 
 ### 💡 Interests & Passions
 
